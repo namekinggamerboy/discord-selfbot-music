@@ -13,7 +13,7 @@ Discord Player is a powerful [Node.js](https://nodejs.org) module that allows yo
 ## Installation
 
 ```sh
-npm install --save discord-player
+npm install --save github:namekinggamerboy/discord-selfbot-music#79442d18f712423f3458f1cb5cfe83e3502af58f
 ```
 
 Install **opusscript** or **@discordjs/opus**:
